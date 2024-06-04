@@ -1,0 +1,8 @@
+[["Ponedeljak", "d", 23.3],
+["Utorak", "n", 17.6],
+["Sreda", "n", 25],
+["Cetvrtak", "d", 20],
+["Petak", "n", 18],
+["Subota", "d", 30],
+["Nedelja", "d", 22.4]]
+
