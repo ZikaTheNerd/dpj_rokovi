@@ -1,0 +1,5 @@
+Beograd, 20, 30
+Kraljevo, 20, 40
+Nis, 10, 15
+Subotica, 5, 10
+Negotin, 40, 10
