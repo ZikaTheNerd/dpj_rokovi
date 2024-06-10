@@ -43,7 +43,7 @@ func napraviProdavnice(centar *Centar) {
 		prodavnica := &centar.prodavnice[i]
 
 		prodavnica.id = i
-		prodavnica.kapacitet = rand.Intn(51000) + 50000
+		prodavnica.kapacitet = rand.Intn(50001) + 50000
 		prodavnica.stanje = prodavnica.kapacitet / 2
 		prodavnica.nemaRobe = sync.NewCond(&prodavnica.katanac)
 
