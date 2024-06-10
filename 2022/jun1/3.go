@@ -95,7 +95,7 @@ func promeniProdavnicu(centar *Centar, devojka *Devojka) {
 	trenutna := devojka.trenutnaProdavnica
 	for {
 		nova := &centar.prodavnice[rand.Intn(4)]
-		if nova != trenutna {
+		if nova != trenutna && devojka.sastojci[nova.id] == 0 {
 			devojka.trenutnaProdavnica = nova
 			break
 		}
