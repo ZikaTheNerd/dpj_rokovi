@@ -1,0 +1,52 @@
+[
+    {
+        "ime artikla": "Televizor",
+        "cena": 49999.99,
+        "datum": "2024-06-01"
+    },
+    {
+        "ime artikla": "Frižider",
+        "cena": 35999.50,
+        "datum": "2024-06-02"
+    },
+    {
+        "ime artikla": "Laptop",
+        "cena": 74999.00,
+        "datum": "2024-06-03"
+    },
+    {
+        "ime artikla": "Mikrotalasna",
+        "cena": 8999.99,
+        "datum": "2024-06-04"
+    },
+    {
+        "ime artikla": "Usisivač",
+        "cena": 15999.75,
+        "datum": "2024-06-05"
+    },
+    {
+        "ime artikla": "Klima uređaj",
+        "cena": 42999.49,
+        "datum": "2024-06-06"
+    },
+    {
+        "ime artikla": "Šporet",
+        "cena": 21999.89,
+        "datum": "2024-06-07"
+    },
+    {
+        "ime artikla": "Veš mašina",
+        "cena": 32999.99,
+        "datum": "2024-06-08"
+    },
+    {
+        "ime artikla": "Aspirator",
+        "cena": 7499.49,
+        "datum": "2024-06-09"
+    },
+    {
+        "ime artikla": "Smartphone",
+        "cena": 65999.99,
+        "datum": "2024-06-10"
+    }
+]
