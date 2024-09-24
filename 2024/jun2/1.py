@@ -68,7 +68,6 @@ class MainWindow(QWidget):
                 avg += price
 
         resultString = f"Ukupna zarada: {avg}\nNajskuplji artikal: {maxProd}"
-        print(resultString)
         resultLabel.setText(resultString)
         self.result_window.show()
 
